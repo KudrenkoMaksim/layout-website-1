@@ -1,0 +1,576 @@
+@media screen and (max-width: 1500px) {
+  .more .container-more {
+    padding: 100px 30px;
+  }
+  .more .container-more .img-more {
+    width: 683px;
+  }
+  .management .container-management .img-management {
+    width: 720px;
+  }
+  .together .container-together .img-together {
+    width: 540px;
+  }
+  .plan .container-plan .block-plan .card-plan {
+    width: 420px;
+  }
+  .says .container-says .block-says .card-says {
+    width: 420px;
+    padding: 60px 20px;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .header .container-header .block-header {
+    flex-direction: column;
+    width: 191px;
+  }
+  .header .container-header .block-header nav {
+    flex-direction: column;
+    align-items: start;
+    width: 191px;
+  }
+  .header .container-header .block-header nav a {
+    margin-top: 10px;
+  }
+  .more .container-more .img-more {
+    width: 525px;
+  }
+  .management .container-management .block-management .text1-management {
+    font-size: 64px;
+  }
+  .management .container-management .img-management {
+    width: 525px;
+  }
+  .together .container-together .block-together .text1-together {
+    font-size: 64px;
+  }
+  .together .container-together .img-together {
+    width: 490px;
+  }
+  .extension .container-extension .block-extension .text1-extension {
+    font-size: 64px;
+  }
+  .extension .container-extension .img-extension {
+    width: 460px;
+  }
+  .needs .container-needs .block-needs .text1-needs {
+    font-size: 64px;
+  }
+  .needs .container-needs .img-needs {
+    width: 535px;
+  }
+  .plan .container-plan .text1-plan {
+    font-size: 64px;
+  }
+  .plan .container-plan .block-plan .card-plan {
+    width: 340px;
+  }
+  .work {
+    justify-content: start;
+  }
+  .work .container-work {
+    width: 650px;
+  }
+  .work .container-work .text1-work {
+    justify-content: start;
+    font-size: 64px;
+  }
+  .work .container-work form {
+    justify-content: start;
+  }
+  .data .container-data .block-data .text1-data {
+    font-size: 64px;
+  }
+  .data .container-data .img-data {
+    width: 562px;
+  }
+  .sponsors .container-sponsors .text-sponsors {
+    font-size: 64px;
+  }
+  .apps .container-apps .block-apps .text1-apps {
+    font-size: 64px;
+  }
+  .apps .container-apps .img-apps {
+    width: 520px;
+  }
+  .says .container-says .text-says {
+    font-size: 64px;
+  }
+  .says .container-says .block-says .card-says {
+    width: 340px;
+  }
+  .says .container-says .block-says .card-says .box-says .img-says {
+    height: 95px;
+  }
+  .try .container-try .block-try .text1-try {
+    font-size: 64px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .more .container-more {
+    flex-direction: column;
+    align-items: center;
+  }
+  .more .container-more .block-more {
+    margin-right: 0;
+  }
+  .more .container-more .block-more .text1-more {
+    text-align: center;
+    font-size: 54px;
+  }
+  .more .container-more .block-more .text2-more {
+    text-align: center;
+  }
+  .more .container-more .block-more form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 120px;
+  }
+  .more .container-more .img-more {
+    width: 550px;
+  }
+  .management .container-management {
+    flex-direction: column;
+    align-items: center;
+  }
+  .management .container-management .block-management {
+    margin-right: 0;
+  }
+  .management .container-management .block-management .text1-management {
+    display: flex;
+    font-size: 54px;
+    justify-content: center;
+  }
+  .management .container-management .block-management .text1-management dt {
+    margin-right: 20px;
+  }
+  .management .container-management .block-management .text2-management {
+    text-align: center;
+  }
+  .management .container-management .block-management form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+  }
+  .management .container-management .img-management {
+    width: 561px;
+  }
+  .together .container-together {
+    flex-direction: column;
+    align-items: center;
+  }
+  .together .container-together .block-together .text1-together {
+    font-size: 54px;
+    justify-content: center;
+  }
+  .together .container-together .block-together .text2-together {
+    text-align: center;
+  }
+  .together .container-together .block-together form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+  }
+  .together .container-together .img-together {
+    width: 425px;
+  }
+  .extension .container-extension {
+    flex-direction: column;
+    align-items: center;
+  }
+  .extension .container-extension .block-extension .text1-extension {
+    font-size: 54px;
+    justify-content: center;
+  }
+  .extension .container-extension .block-extension .text2-extension {
+    text-align: center;
+  }
+  .extension .container-extension .block-extension form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+  }
+  .extension .container-extension .img-extension {
+    width: 557px;
+  }
+  .needs .container-needs {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .needs .container-needs .block-needs {
+    margin-top: 60px;
+  }
+  .needs .container-needs .block-needs .text1-needs {
+    font-size: 54px;
+    display: flex;
+    justify-content: center;
+  }
+  .needs .container-needs .block-needs .text1-needs dt {
+    margin-right: 20px;
+  }
+  .needs .container-needs .block-needs .text2-needs {
+    text-align: center;
+  }
+  .needs .container-needs .block-needs form {
+    display: flex;
+    justify-content: center;
+  }
+  .needs .container-needs .img-needs {
+    width: 535px;
+  }
+  .plan .container-plan .text1-plan {
+    font-size: 54px;
+    margin-top: 70px;
+  }
+  .plan .container-plan .block-plan {
+    flex-direction: column;
+    align-items: center;
+  }
+  .plan .container-plan .block-plan .card-plan {
+    margin: 70px 0;
+    padding: 20px 44px;
+  }
+  .plan .container-plan .block-plan .card-plan:hover {
+    padding: 45px 44px;
+    margin: 45px 0;
+  }
+  .work .container-work {
+    width: 610px;
+  }
+  .work .container-work .text1-work {
+    justify-content: start;
+    font-size: 54px;
+  }
+  .work .container-work .text2-work {
+    text-align: justify;
+  }
+  .data .container-data {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .data .container-data .block-data {
+    margin-top: 100px;
+    align-items: center;
+  }
+  .data .container-data .block-data .text1-data {
+    font-size: 54px;
+  }
+  .data .container-data .block-data .text2-data {
+    text-align: center;
+  }
+  .data .container-data .img-data {
+    width: 513px;
+  }
+  .sponsors .container-sponsors .text-sponsors {
+    font-size: 54px;
+  }
+  .sponsors .container-sponsors .logo-sponsors {
+    margin-top: 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sponsors .container-sponsors .logo-sponsors a {
+    margin-top: 100px;
+  }
+  .apps .container-apps {
+    flex-direction: column;
+    align-items: center;
+  }
+  .apps .container-apps .block-apps {
+    align-items: center;
+    margin-top: 100px;
+  }
+  .apps .container-apps .block-apps .text1-apps {
+    font-size: 54px;
+    text-align: center;
+  }
+  .apps .container-apps .block-apps .text2-apps {
+    text-align: center;
+  }
+  .apps .container-apps .img-apps {
+    width: 520px;
+  }
+  .says .container-says .text-says {
+    font-size: 54px;
+  }
+  .says .container-says .block-says {
+    align-items: center;
+    flex-direction: column;
+  }
+  .says .container-says .block-says .card-says {
+    width: 470px;
+    margin-top: 50px;
+  }
+  .says .container-says .block-says .card-says .box-says .img-says {
+    height: 95px;
+  }
+  .try .container-try {
+    justify-content: start;
+  }
+  .try .container-try .block-try {
+    text-align: left;
+  }
+  .try .container-try .block-try .text1-try {
+    font-size: 54px;
+  }
+  .try .container-try .block-try form {
+    justify-content: flex-start;
+  }
+  .try .container-try .block-try .logo-try {
+    width: 300px;
+  }
+  .inform .container-inform {
+    flex-direction: column;
+  }
+  .inform .container-inform .block1-inform {
+    width: 500px;
+    margin-top: 100px;
+  }
+  .inform .container-inform .block2-inform {
+    margin-top: 100px;
+  }
+  .inform .container-inform .block3-inform {
+    margin-top: 100px;
+  }
+  .inform .container-inform .block4-inform {
+    margin-top: 100px;
+  }
+  .inform .container-inform .block5-inform {
+    margin-top: 100px;
+  }
+  .footer .container-footer .box-left-footer {
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 790px) {
+  .header .container-header {
+    flex-direction: column;
+    padding: 0 15px;
+  }
+  .header .container-header .buttons-header {
+    flex-direction: column;
+  }
+  .header .container-header .buttons-header form {
+    margin-top: 20px;
+  }
+  .header .container-header .buttons-header form .button-blue-arrow {
+    margin-left: 0;
+  }
+  .more .container-more {
+    padding: 140px 15px;
+  }
+  .more .container-more .block-more .text1-more {
+    font-size: 36px;
+  }
+  .more .container-more .img-more {
+    width: 285px;
+  }
+  .management .container-management {
+    padding: 140px 15px 0 15px;
+  }
+  .management .container-management .block-management .text1-management {
+    flex-direction: column;
+    font-size: 36px;
+    align-items: center;
+  }
+  .management .container-management .img-management {
+    width: 285px;
+  }
+  .together .container-together {
+    padding: 100px 15px 140px 15px;
+  }
+  .together .container-together .block-together {
+    margin-left: 0;
+  }
+  .together .container-together .block-together .text1-together {
+    font-size: 36px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .together .container-together .block-together .text1-together p {
+    margin-left: 0;
+  }
+  .together .container-together .img-together {
+    width: 285px;
+  }
+  .extension .container-extension {
+    padding: 140px 15px;
+  }
+  .extension .container-extension .block-extension {
+    margin-right: 0;
+  }
+  .extension .container-extension .block-extension .text1-extension {
+    flex-direction: column;
+    font-size: 36px;
+    align-items: center;
+  }
+  .extension .container-extension .img-extension {
+    width: 285px;
+  }
+  .needs .container-needs {
+    padding: 140px 15px;
+  }
+  .needs .container-needs .block-needs {
+    margin-left: 0;
+  }
+  .needs .container-needs .block-needs .text1-needs {
+    font-size: 36px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .needs .container-needs .img-needs {
+    width: 285px;
+  }
+  .plan .container-plan {
+    padding: 0 15px;
+  }
+  .plan .container-plan .text1-plan {
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .plan .container-plan .text1-plan p {
+    margin-left: 0;
+  }
+  .plan .container-plan .block-plan .card-plan {
+    width: 290px;
+  }
+  .work .container-work {
+    width: 100%;
+    padding: 100px 15px;
+  }
+  .work .container-work .text1-work {
+    font-size: 36px;
+  }
+  .work .container-work .text2-work {
+    text-align: left;
+  }
+  .data .container-data {
+    padding: 80px 15px;
+  }
+  .data .container-data .block-data {
+    margin-right: 0;
+  }
+  .data .container-data .block-data .text1-data {
+    font-size: 36px;
+  }
+  .data .container-data .img-data {
+    width: 290px;
+  }
+  .sponsors .container-sponsors {
+    padding: 100px 15px;
+  }
+  .sponsors .container-sponsors .text-sponsors {
+    font-size: 36px;
+  }
+  .sponsors .container-sponsors .logo-sponsors a img {
+    width: 213px;
+  }
+  .sponsors .container-sponsors .logo-sponsors a img.img-apple {
+    width: 55px;
+    display: flex;
+    justify-content: center;
+  }
+  .apps .container-apps {
+    padding: 100px 15px;
+  }
+  .apps .container-apps .block-apps {
+    margin-left: 0;
+  }
+  .apps .container-apps .block-apps .text1-apps {
+    font-size: 36px;
+    line-height: 44px;
+  }
+  .apps .container-apps .img-apps {
+    width: 290px;
+  }
+  .says {
+    padding: 100px 0;
+  }
+  .says .container-says {
+    padding: 0 15px;
+  }
+  .says .container-says .text-says {
+    font-size: 40px;
+    line-height: 52px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .says .container-says .text-says p {
+    margin-left: 0;
+  }
+  .says .container-says .text-says dt {
+    text-align: center;
+  }
+  .says .container-says .block-says .card-says {
+    width: 290px;
+  }
+  .try .container-try {
+    padding: 0 15px;
+  }
+  .try .container-try .block-try {
+    width: 100%;
+  }
+  .try .container-try .block-try .text1-try {
+    font-size: 40px;
+    line-height: 52px;
+  }
+  .try .container-try .block-try .logo-try {
+    width: 290px;
+  }
+  .inform {
+    padding: 100px 0;
+  }
+  .inform .container-inform {
+    padding: 0 15px;
+    align-items: center;
+  }
+  .inform .container-inform .block1-inform {
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  .inform .container-inform .block2-inform {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .inform .container-inform .block3-inform {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .inform .container-inform .block4-inform {
+    margin-top: 50px;
+    text-align: center;
+  }
+  .inform .container-inform .block5-inform {
+    margin-top: 50px;
+    width: 100%;
+    text-align: center;
+  }
+  .inform .container-inform .block5-inform form {
+    display: flex;
+    justify-content: center;
+  }
+  .footer .container-footer {
+    padding: 0 15px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer .container-footer .box-left-footer {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  .footer .container-footer .box-left-footer .text1-footer {
+    margin: 20px 0;
+  }
+  .footer .container-footer .box-left-footer .text3-footer {
+    margin: 20px 0;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */

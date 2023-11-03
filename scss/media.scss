@@ -1,0 +1,763 @@
+@media screen and (max-width:1500px) {
+   .more {
+      .container-more {
+         padding: 100px 30px;
+         .img-more {
+            width: 683px;
+         }
+      }
+   }
+   .management {
+      .container-management {
+         .img-management {
+            width: 720px;
+         }
+      }
+   } 
+   .together {
+      .container-together {
+         .img-together {
+            width: 540px;
+         }
+      }
+   }
+   .plan {
+       .container-plan {
+         .block-plan {
+            .card-plan {
+               width: 420px;
+            }
+         }
+      }
+   }
+   .says {
+      .container-says {
+         .block-says {
+            .card-says {
+            width: 420px;
+            padding: 60px 20px;
+            }
+         }
+      }
+   }
+}
+@media screen and (max-width:1350px) {
+   .header {
+      .container-header {
+         .block-header {
+            flex-direction: column;
+            width: 191px;
+            nav {
+               flex-direction: column;
+               align-items: start;
+               width: 191px;
+               a {
+                  margin-top: 10px;
+               }
+               
+            }
+         }
+      }
+   }
+   .more {
+      .container-more {
+         .img-more {
+            width: 525px;
+         }
+      }
+   }
+   .management {
+      .container-management {
+         .block-management {
+            .text1-management {
+               font-size: 64px;
+            }
+         }
+         .img-management {
+            width: 525px;
+         }
+      }
+   } 
+   .together {
+      .container-together {
+         .block-together {
+            .text1-together {
+               font-size: 64px;
+            }
+         }
+         .img-together {
+            width: 490px;
+         }
+      }
+   }
+   .extension {
+      .container-extension {
+         .block-extension {
+            .text1-extension {
+               font-size: 64px;
+            }
+         }
+         .img-extension {
+            width: 460px;
+         }
+      }
+   }
+   .needs {
+      .container-needs {
+         .block-needs {
+            .text1-needs {
+               font-size: 64px;
+            }
+         }
+         .img-needs {
+            width: 535px;
+         }
+      }
+   }
+   .plan {
+       .container-plan {
+         .text1-plan {
+            font-size: 64px;
+         }
+         .block-plan {
+            .card-plan {
+               width: 340px;
+            }
+         }
+      }
+   }
+   .work {
+      justify-content: start;
+      .container-work {
+        
+         width: 650px;
+         .text1-work {
+           justify-content: start;
+           font-size: 64px;
+         }
+         form {
+            justify-content: start;
+         }
+
+      }
+   }
+   .data {
+      .container-data {
+         .block-data {
+            .text1-data {
+               font-size: 64px;
+            }
+         }
+         .img-data {
+            width: 562px;
+         }
+      }
+   }
+   .sponsors {
+      .container-sponsors {
+         .text-sponsors {
+            font-size: 64px; 
+         }
+      }
+   }
+   .apps {
+      .container-apps {
+         .block-apps {
+            .text1-apps {
+               font-size: 64px;
+            }
+         }
+         .img-apps {
+            width: 520px;
+         }
+      }
+   }
+   .says {
+      .container-says {
+         .text-says {
+            font-size: 64px;
+         }
+         .block-says {
+            .card-says {
+            width: 340px;
+            .box-says {
+               .img-says {
+                  height: 95px;
+               }
+            }
+            }
+         }
+      }
+   }
+   .try {
+      .container-try {
+         .block-try {
+            .text1-try {
+               font-size: 64px;
+            }
+         }
+      }
+   }
+}
+@media screen and (max-width:1100px) {
+   
+   .more {
+      .container-more {
+         flex-direction: column;
+         align-items: center;
+         .block-more {
+            margin-right: 0;
+            .text1-more {
+               text-align: center;
+               font-size: 54px;
+            }
+            .text2-more {
+               text-align: center;
+            }
+            form {
+               display: flex;
+               justify-content: center;
+               margin-bottom: 120px;
+            }
+         }
+         .img-more {
+            width: 550px;
+         }
+      }
+   }
+   .management {
+      .container-management {
+         flex-direction: column;
+         align-items: center;
+         .block-management {
+            margin-right: 0;
+            .text1-management {
+               display: flex;
+               font-size: 54px;
+               justify-content: center;
+               dt {
+                   margin-right: 20px;
+               }
+            }
+            .text2-management {
+               text-align: center;
+            }
+            form {
+               display: flex;
+               justify-content: center;
+               margin-bottom: 60px;
+            }
+         }
+         .img-management {
+            width: 561px;
+         }
+      }
+   } 
+   .together {
+      .container-together {
+         flex-direction: column;
+         align-items: center;
+         .block-together {
+            .text1-together {
+               font-size: 54px;
+               justify-content: center;
+            }
+            .text2-together {
+               text-align: center;
+            }
+            form {
+               display: flex;
+               justify-content: center;
+               margin-bottom: 100px;
+            }
+         }
+         .img-together {
+            width: 425px;
+         }
+      }
+   }
+
+
+
+   .extension {
+      .container-extension {
+         flex-direction: column;
+         align-items: center;
+         .block-extension {
+            .text1-extension {
+               font-size: 54px;
+               justify-content: center;
+            }
+            .text2-extension {
+               text-align: center;
+            }
+            form {
+               display: flex;
+               justify-content: center;
+               margin-bottom: 60px;
+            }
+         }
+         .img-extension {
+            width: 557px;
+         }
+      }
+   }
+   .needs {
+      .container-needs {
+         flex-direction: column-reverse;
+         align-items: center;
+         .block-needs {
+            margin-top: 60px;
+            .text1-needs {
+               font-size: 54px;
+               display: flex;
+               justify-content: center;
+               dt {
+                  margin-right: 20px;
+               }
+            }
+            .text2-needs {
+               text-align: center;
+            }
+            form {
+               display: flex;
+               justify-content: center;
+            }
+         }
+         .img-needs {
+            width: 535px;
+         }
+      }
+   }
+   .plan {
+      .container-plan {
+         .text1-plan {
+            font-size: 54px;
+            margin-top: 70px;
+         }
+         .block-plan {
+            flex-direction: column;
+            align-items: center;
+            .card-plan {
+               margin: 70px 0;
+               padding: 20px 44px;
+               &:hover {
+                  padding: 45px 44px;
+                  margin: 45px 0;
+               }
+            }
+            
+         }
+      }
+   }
+   .work {
+      .container-work {
+         width: 610px;
+         .text1-work {
+           justify-content: start;
+           font-size: 54px;
+         }
+         .text2-work {
+            text-align:justify;
+         }
+      }
+   }
+   .data {
+      .container-data {
+         flex-direction: column-reverse;
+         align-items: center;
+         .block-data {
+            margin-top: 100px;
+            align-items: center;
+            .text1-data {
+               font-size: 54px;
+            }
+            .text2-data {
+               text-align: center;
+            }
+         }
+         .img-data {
+            width: 513px;
+         }
+      }
+   }
+   .sponsors {
+      .container-sponsors {
+         .text-sponsors {
+            font-size: 54px; 
+         }
+         .logo-sponsors {
+            margin-top: 0;
+            flex-direction: column;
+            align-items: center;
+            a {
+               margin-top: 100px;
+            }
+         }
+      }
+   }
+   .apps {
+      .container-apps {
+         flex-direction: column;
+         align-items: center;
+         .block-apps {
+            align-items: center;
+            margin-top: 100px;
+            .text1-apps {
+               font-size: 54px;
+               text-align: center;
+            }
+            .text2-apps {
+               text-align: center;
+            }
+         }
+         .img-apps {
+            width: 520px;
+         }
+      }
+   }
+   .says {
+      .container-says {
+         
+         .text-says {
+            font-size: 54px;
+         }
+         .block-says {
+            align-items: center;
+            flex-direction: column;
+            .card-says {
+               width: 470px;
+               margin-top: 50px;
+               
+               .box-says {
+                  .img-says {
+                     height: 95px;
+                  }
+               }
+            }
+         }
+      }
+   }
+   .try {
+      .container-try {
+         justify-content: start;
+         .block-try {
+            text-align: left;
+            .text1-try {
+               font-size: 54px;
+            }
+            form {
+               justify-content: flex-start;
+            }
+            .logo-try {
+               width: 300px;
+            }
+         }
+      }
+   }
+   .inform {
+      .container-inform {
+         flex-direction: column;
+         .block1-inform {
+            width: 500px;
+            margin-top: 100px;
+         }
+         .block2-inform {
+            margin-top: 100px;
+         }
+         .block3-inform {
+            margin-top: 100px;
+         }
+         .block4-inform {
+            margin-top: 100px;
+         }
+         .block5-inform {
+            margin-top: 100px;
+         }
+      }
+   }
+   .footer {
+      .container-footer {
+         .box-left-footer {
+            margin-bottom: 20px;
+         }
+      }
+   }
+}
+@media screen and (max-width:790px) {
+   .header {
+      .container-header {
+         flex-direction: column;
+         padding: 0 15px;
+         .buttons-header {
+            flex-direction: column;
+            form {
+               margin-top: 20px;
+               .button-blue-arrow {
+                   margin-left: 0;
+               }
+              
+            }
+         }
+      }
+   }
+   .more {
+      .container-more {
+         padding: 140px 15px;
+         .block-more {
+            .text1-more {
+               font-size: 36px;
+            }
+         }
+         .img-more {
+            width: 285px;
+         }
+      }
+   }
+   .management {
+      .container-management {
+         padding: 140px 15px 0 15px;
+         .block-management {
+            .text1-management {
+               flex-direction: column;
+               font-size: 36px;
+               align-items: center;
+            }
+         }
+         .img-management {
+            width: 285px;
+         }
+      }
+   } 
+   .together {
+      .container-together {
+         padding: 100px 15px 140px 15px;
+         .block-together {
+            margin-left: 0;
+            .text1-together {
+               font-size: 36px;
+               flex-direction: column;
+               align-items: center;
+               p {
+                  margin-left: 0;
+               }
+            }
+         }
+         .img-together {
+            width: 285px;
+         }
+      }
+   }
+
+
+
+   .extension {
+      .container-extension {
+         padding: 140px 15px;
+         .block-extension {
+            margin-right: 0;
+            .text1-extension {
+               flex-direction: column;
+               font-size: 36px;
+               align-items: center;
+            }
+         }
+         .img-extension {
+            width: 285px;
+         }
+      }
+   }
+   .needs {
+      .container-needs {
+         padding: 140px 15px;
+         .block-needs {
+            margin-left: 0;
+            .text1-needs {
+               font-size: 36px;
+               flex-direction: column;
+               align-items: center;  
+            }
+         }
+         .img-needs {
+            width: 285px;
+         }
+      }
+   }
+   .plan {
+      .container-plan {
+         padding: 0 15px;
+    
+         .text1-plan {
+            font-size: 36px;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            p {
+               margin-left: 0;
+            }
+         }
+         .block-plan {
+            .card-plan {
+               width: 290px;
+            }
+            
+         }
+      }
+   }
+   .work {
+      .container-work {
+         width: 100%;
+         padding: 100px 15px ;
+         .text1-work {
+           font-size: 36px;
+         }
+         .text2-work {
+            text-align: left;
+         }
+      }
+   }
+   .data {
+      .container-data {
+         padding: 80px 15px;
+         .block-data {
+            margin-right: 0;
+            .text1-data {
+               font-size: 36px;
+            }
+         }
+         .img-data {
+            width: 290px;
+         }
+      }
+   }
+   .sponsors {
+      .container-sponsors {
+         padding: 100px 15px;
+         .text-sponsors {
+            font-size: 36px; 
+         }
+         .logo-sponsors {
+            a {
+               img {
+                  width: 213px;
+               }
+               img.img-apple {
+                  width: 55px;
+                  display: flex;
+                  justify-content: center;
+
+               }
+            }
+         }
+      }
+   }
+   .apps {
+      .container-apps {
+         padding: 100px 15px;
+         .block-apps {
+            margin-left: 0;
+            .text1-apps {
+               font-size: 36px;
+               line-height: 44px;
+            }
+         }
+         .img-apps {
+            width: 290px;
+         }
+      }
+   }
+   .says {
+      padding: 100px 0;
+      .container-says {
+         padding: 0 15px;
+         .text-says {
+            font-size: 40px;
+            line-height: 52px;
+            flex-direction: column;
+            align-items: center;
+            p {
+               margin-left: 0;
+            }
+            dt {
+               text-align: center;
+            }
+         }
+         .block-says {
+            .card-says {
+               width: 290px;
+            }
+         }
+      }
+   }
+   .try {
+      .container-try {
+         padding: 0 15px;
+         .block-try {
+            width: 100%;
+            .text1-try {
+               font-size: 40px;
+               line-height: 52px;
+            }
+            .logo-try {
+               width: 290px;
+            }
+         }
+      }
+   }
+   .inform {
+      padding: 100px 0;
+      .container-inform {
+         padding: 0 15px;
+         align-items: center;
+         .block1-inform {
+            width: 100%;
+            margin-top: 50px;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            text-align: center;
+         }
+         .block2-inform {
+            margin-top: 50px;
+            text-align: center;
+         }
+         .block3-inform {
+            margin-top: 50px;
+            text-align:center ;
+         }
+         .block4-inform {
+            margin-top: 50px;
+            text-align: center;
+         }
+         .block5-inform {
+            margin-top: 50px;
+            width: 100%;
+            text-align: center;
+
+            form {
+               display: flex;
+               justify-content: center;
+            }
+         }
+      }
+   }
+   .footer {
+      .container-footer {
+         padding: 0 15px;
+         flex-direction: column;
+         align-items: center;
+         .box-left-footer {
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            .text1-footer {
+               margin: 20px 0;
+            }
+            .text3-footer {
+               margin: 20px 0;
+            }
+         }
+   
+      }
+   }
+}
